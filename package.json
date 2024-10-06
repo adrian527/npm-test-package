@@ -1,0 +1,19 @@
+{
+  "name": "adrian527-test-package",
+  "version": "1.0.1",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian527/npm-test-package.git"
+  },
+  "author": "adrian527",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrian527/npm-test-package/issues"
+  },
+  "homepage": "https://github.com/adrian527/npm-test-package#readme"
+}
